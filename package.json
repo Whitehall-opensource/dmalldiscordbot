@@ -1,0 +1,27 @@
+{
+  "name": "mass-dm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sponsorbot.js",
+  "dependencies": {
+    "array-sort": "^1.0.0",
+    "colors": "^1.4.0",
+    "discord.js": "^12.5.3",
+    "line-by-line": "^0.1.6",
+    "lowdb": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wumpuspro/mass-dm-with-embed.git"
+  },
+  "author": "Wumpus#1000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wumpuspro/mass-dm-with-embed/issues"
+  },
+  "homepage": "https://github.com/Wumpuspro/mass-dm-with-embed#readme"
+}
