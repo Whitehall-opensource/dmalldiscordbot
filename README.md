@@ -7,4 +7,4 @@ Guide d'utilisation :
 Pour installer les modules faîtes npm i
 Configurer le fichier config.js.
 
-Bonne utilisation !!!
+Bonne utilisation !!! discord.gg/whitehall
